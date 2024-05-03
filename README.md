@@ -1,2 +1,2 @@
-# Whispers-of-the-Heart
-Google AI Hackathon project
+# Whispers of the Heart
+A daily reflection journal
