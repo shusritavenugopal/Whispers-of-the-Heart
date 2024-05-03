@@ -1,0 +1,6 @@
+jupyterlab>=3.5.0
+numpy>=1.22.3
+pandas>=1.5.1
+scikit-learn>=1.2.0
+google-generativeai
+Pillow
