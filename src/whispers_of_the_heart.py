@@ -33,7 +33,7 @@ from IPython.display import display, Markdown
 # Notebook Access button.
 
 # Insert the API key here
-GOOGLE_API_KEY="AIzaSyD2Kiy-nGxlUHoOC8U0BQHXOcsWdC52gqk"
+GOOGLE_API_KEY=input("Please enter the Gemini API key: ")
 genai.configure(api_key=GOOGLE_API_KEY)
 
 """## Initialising the variables"""
