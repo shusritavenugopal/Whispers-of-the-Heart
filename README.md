@@ -1,7 +1,7 @@
 # Whispers of the Heart
 ## About the project
 
-**A daily reflection journalling app that revolutionizes therapy by seamlessly integrating AI analysis with professional therapy practices.**
+**_A daily reflection journalling app that revolutionizes therapy by seamlessly integrating AI analysis with professional therapy practices._**
 
 Journaling serves as a vital tool for individuals to reflect on their thoughts, feelings, and experiences, fostering self-awareness and personal growth. Therapists often utilize journals as a means to gain deeper insights into their clients' inner worlds, leveraging the safe space created by journals for free expression. However, sharing journal entries can be daunting, and not all individuals feel comfortable doing so, even with their therapists.
 
