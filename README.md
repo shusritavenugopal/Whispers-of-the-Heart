@@ -25,7 +25,7 @@ Our main submission for the Hackathon is the `src/Whispers_of_the_Heart_Google_A
 We recommend running the notebook in Google Colab.
 Please make sure you have the Google API Key for the project. If using Google Colab, please add the API key as a Secret, with the name `GOOGLE_API_KEY` and the key as the value.
 
-If you want the experience of the app, you can run the Python file `whispers_of_the_heart.py`. But in this case, you will have to add the API key as an input to the prompt that follows.
+If you want the experience of the app, you can run the Python file `src/whispers_of_the_heart.py`. But in this case, you will have to add the API key as an input to the prompt that follows.
 
 ## Preparation
 
